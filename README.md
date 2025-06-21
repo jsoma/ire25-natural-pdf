@@ -15,7 +15,7 @@ IRE 2025, New Orleans
 
 ## Your notebooks
 
-Click them. Run them. Shift+enter is your best friend.
+Click them. Run them. Shift+enter is your best friend. If something isn't working, `!pip install "natural-pdf[all]"`
 
 - [Natural PDF basics with text and tables](xxx)
 - [OCR and AI magic](xxx)
