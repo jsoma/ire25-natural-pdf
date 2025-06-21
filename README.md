@@ -1,18 +1,16 @@
-# Scraping PDFs with Python and Natural PDF
+# 🕵️ Scraping PDFs with Python and Natural PDF
 
-IRE 2025, New Orleans
-
-## Me!
+[IRE 2025](https://schedules.ire.org/ire-2025/), New Orleans
 
 Jonathan Soma, Knight Chair in Data Journalism at Columbia University
 
-- [js4571@columbia.edu](mailto:js4571@columbia.edu) ▓ [@dangerscarf](https://x.com/dangerscarf) ▓ [@dangerscarf.bsky.social](https://bsky.app/profile/dangerscarf.bsky.social) ▓ [jonathansoma.com](https://jonathansoma.com/)
+[js4571@columbia.edu](mailto:js4571@columbia.edu) ▒ [@dangerscarf](https://x.com/dangerscarf) ▒ [@dangerscarf.bsky.social](https://bsky.app/profile/dangerscarf.bsky.social) ▒ [jonathansoma.com](https://jonathansoma.com/)
 
-## The one important link
+## 📄 In brief
 
-- [Natural PDF documentation](https://jsoma.github.io/natural-pdf/)
+[Natural PDF](https://jsoma.github.io/natural-pdf/) is a Python library for working with PDFs. I made it, so I think it's awesome.
 
-## Your notebooks
+## 📝 Your notebooks
 
 These are where all of the action happens! Click them to open in **Google Colab**. Run them. Hold down shift, press enter.
 
@@ -21,4 +19,3 @@ These are where all of the action happens! Click them to open in **Google Colab*
 - [AI and data extraction](https://colab.research.google.com/github/jsoma/ire25-natural-pdf/blob/main/03-AI%20and%20data%20extraction.ipynb)
 - [Page structure](https://colab.research.google.com/github/jsoma/ire25-natural-pdf/blob/main/04-Page%20structure.ipynb)
 - [The final boss](https://colab.research.google.com/github/jsoma/ire25-natural-pdf/blob/main/05-Final%20boss.ipynb)
-
